@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-alumno/common-alumno.iml" filepath="$PROJECT_DIR$/common-alumno/common-alumno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-examen/common-examen.iml" filepath="$PROJECT_DIR$/common-examen/common-examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso/curso.iml" filepath="$PROJECT_DIR$/curso/curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examenes/examenes.iml" filepath="$PROJECT_DIR$/examenes/examenes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/respuestas/respuestas.iml" filepath="$PROJECT_DIR$/respuestas/respuestas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usuario/usuario.iml" filepath="$PROJECT_DIR$/usuario/usuario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
